@@ -4,9 +4,9 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Folder Expanded="Yes" Name="InventarioBD"/>
-		<Model Expanded="Yes" ID="{86A77730-5E43-49AE-8BDD-7CFC0631B423}" Name="CD_Inventario" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="CD_Inventariochanges.cdm"/>
-		<Model ID="{5E7D2AE2-9783-4F66-8B6E-E2ACDCC0E77B}" Name="LD_Inventario" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="LD_Inventario.ldm"/>
+		<Folder Name="InventarioBD"/>
+		<Model Expanded="Yes" ID="{86A77730-5E43-49AE-8BDD-7CFC0631B423}" Loaded="No" Name="CD_Inventario" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="CD_Inventariochanges.cdm"/>
+		<Model ID="{5E7D2AE2-9783-4F66-8B6E-E2ACDCC0E77B}" Loaded="No" Name="LD_Inventario" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="LD_Inventario.ldm"/>
 		<Model ID="{AEB859E9-236C-4662-A9B0-99611CC3E651}" Name="PD_Inventario" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="PD_Inventario.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
